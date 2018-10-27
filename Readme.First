@@ -1,0 +1,7 @@
+This project is all about Genrating electricity and making it a primary source of electricity, so that Nuclear Reactor can have Rest
+My aim is to make the genrator capable of genrating a 180v-240v AC. But it also need to silent and less harmful to enviornment.
+There are Two magnators One that genrates Main Supply and the other rotates the First Magnetor
+I am thinking to use mercury (In liquid state) and use two powerful permanent magnets, the mercury will create a vortex and help in rotaing the shaft so that there is no loss of electricity.
+the major problem is the circuit design that what type of circuit can help in amplifying the electricity.
+I though of using a step-up transformer and two 25000uF capacitor with 1.5k Resistior.
+I also create a Vaccum in the chamber so no noise can be heared from outside of the chamber. But I want to secure my genrator with the problem it might get while genrating electricity..
